@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Facultate CR2\S2\MN\L6\L6\main.cpp(8,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  L6.vcxproj -> D:\Facultate CR2\S2\MN\L6\Debug\L6.exe
