@@ -1,0 +1,4 @@
+﻿  MetTrapezlui.cpp
+D:\Facultate CR2\S2\MN\L10_2\L10_2\MetTrapezlui.cpp(9,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Facultate CR2\S2\MN\L10_2\L10_2\MetTrapezlui.cpp(12): warning C4715: 'f': not all control paths return a value
+  L10_2.vcxproj -> D:\Facultate CR2\S2\MN\L10_2\Debug\L10_2.exe

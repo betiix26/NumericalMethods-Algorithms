@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Facultate CR2\S2\MN\L11\L11\main.cpp(38,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate CR2\S2\MN\L11\L11\main.cpp(39,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate CR2\S2\MN\L11\L11\main.cpp(40,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate CR2\S2\MN\L11\L11\main.cpp(65,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate CR2\S2\MN\L11\L11\main.cpp(66,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate CR2\S2\MN\L11\L11\main.cpp(67,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  L11.vcxproj -> D:\Facultate CR2\S2\MN\L11\Debug\L11.exe
